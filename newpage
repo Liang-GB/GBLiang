@@ -1,0 +1,15 @@
+## 数据类型
+
+		1.原始值 
+			Number
+				大-->近似值 infinity无穷
+				非法数值NaN
+				BigInt大整数	
+			字符串
+				模板字符串 
+			布尔值 	
+			空值	
+			未定义undifined
+			Symbol
+		2.对象 
+		
